@@ -140,7 +140,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: 'https://discord.gg/gzEvk6vg'
         showIcon: false
         icon: arrowRight
         iconPosition: right
