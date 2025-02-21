@@ -7,7 +7,7 @@ sections:
       text: 'Investissez pour demain, aujourd''hui'
       color: text-dark
       type: TitleBlock
-    subtitle: 'Principe:'
+    subtitle: 'A propos:'
     text: >+
       Langstone Capital est un fonds d’investissement innovant, dédié à la
       création de valeur durable. Nous accompagnons les entreprises à fort
