@@ -58,7 +58,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Imprimantes
-        subtitle: 17% D'interet
+        subtitle: 17% D'intérêt
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
