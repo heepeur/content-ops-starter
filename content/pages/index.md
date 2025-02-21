@@ -17,7 +17,7 @@ sections:
 
 
     actions:
-      - label: Intranet
+      - label: ''
         altText: ''
         url: /
         showIcon: true
