@@ -138,7 +138,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Rejoignez-nous
         altText: ''
         url: 'https://discord.gg/gzEvk6vg'
         showIcon: false
