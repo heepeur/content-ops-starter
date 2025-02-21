@@ -17,7 +17,7 @@ sections:
 
 
     actions:
-      - label: ''
+      - label: Espace Client
         altText: ''
         url: 'https://discord.gg/gzEvk6vg'
         showIcon: true
