@@ -90,7 +90,7 @@ sections:
       - title: Bourse
         subtitle: Plusieurs choix
         text: >
-          nous vous accompagnons dans vos investissements boursiers pour
+          Nous vous accompagnons dans vos investissements boursiers pour
           maximiser votre rendement en toute sécurité. Grâce à notre expertise
           et notre analyse stratégique, nous vous aidons à prendre les
           meilleures décisions et à optimiser votre portefeuille.
