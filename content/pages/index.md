@@ -8,8 +8,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'Principe:'
-    text: |
-      Langstone Capital est un fonds d'investissement (Fond commun de placement)
+    text: >+
+      Langstone Capital est un fonds d’investissement innovant, dédié à la
+      création de valeur durable. Nous accompagnons les entreprises à fort
+      potentiel et investissons dans des secteurs stratégiques pour générer
+      croissance et performance.
+
+
+
     actions:
       - label: Get started
         altText: ''
