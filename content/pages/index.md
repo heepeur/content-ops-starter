@@ -57,7 +57,7 @@ sections:
     subtitle: Nos services
     items:
       - type: FeaturedItem
-        title: Printers
+        title: Imprimantes
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
