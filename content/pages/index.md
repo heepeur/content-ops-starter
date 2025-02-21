@@ -19,7 +19,7 @@ sections:
     actions:
       - label: ''
         altText: ''
-        url: /
+        url: 'https://discord.gg/gzEvk6vg'
         showIcon: true
         icon: arrowRight
         iconPosition: right
