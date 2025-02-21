@@ -4,27 +4,22 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: 'Investissez pour demain, aujourd''hui'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    subtitle: 'A propos:'
+    text: >+
+      Langstone Capital est un fonds d’investissement innovant, dédié à la
+      création de valeur durable. Nous accompagnons les entreprises à fort
+      potentiel et investissons dans des secteurs stratégiques pour générer
+      croissance et performance.
+
+
+
     actions:
-      - label: Get started
+      - label: Espace Client
         altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
+        url: 'https://discord.gg/gzEvk6vg'
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -32,12 +27,12 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      url: /images/Langstone.png
     badge:
-      label: This is a badge
+      label: langstone capital
       color: text-primary
       type: Badge
     elementId: ''
@@ -53,21 +48,23 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: ''
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Nos services
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Imprimantes
+        subtitle: 17% D'intérêt
+        text: >+
+          Nous vous proposons un service exclusif de **dépôt d'imprimante** :
+          confiez-nous votre matériel et bénéficiez d’un **taux d'intérêt de 17
+          %** sur vos revenus générés. Une solution simple et rentable pour
+          maximiser votre capital sans effort.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -90,12 +87,13 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Bourse
+        subtitle: Plusieurs choix
+        text: >
+          Nous vous accompagnons dans vos investissements boursiers pour
+          maximiser votre rendement en toute sécurité. Grâce à notre expertise
+          et notre analyse stratégique, nous vous aidons à prendre les
+          meilleures décisions et à optimiser votre portefeuille.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -115,12 +113,13 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Gestion
+        subtitle: Gestion de Capital
+        text: >
+          Avec notre service de **gestion de capital**, nous prenons en charge
+          votre argent et vous le restituons avec un **taux d’intérêt attractif
+          (7%)**. Une solution sécurisée et performante pour faire fructifier
+          vos fonds sans effort.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -139,22 +138,15 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Rejoignez-nous
         altText: ''
-        url: /
+        url: 'https://discord.gg/gzEvk6vg'
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
         type: Button
-    badge:
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
@@ -435,7 +427,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
@@ -464,7 +457,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -523,7 +517,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -552,7 +547,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -646,8 +642,9 @@ sections:
       - title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+        text: >
+          Learn from the tutorial and build your first awesome Netlify Create
+          site.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
