@@ -59,9 +59,12 @@ sections:
       - type: FeaturedItem
         title: Imprimantes
         subtitle: 17% D'intérêt
-        text: >
-          Nous proposons un service de dépôt d'imprimante avec un taux d'intérêt
-          de 17% sur vos revenus. Cela nous permet
+        text: >+
+          Nous vous proposons un service exclusif de **dépôt d'imprimante** :
+          confiez-nous votre matériel et bénéficiez d’un **taux d'intérêt de 17
+          %** sur vos revenus générés. Une solution simple et rentable pour
+          maximiser votre capital sans effort.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
