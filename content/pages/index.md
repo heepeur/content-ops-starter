@@ -115,10 +115,11 @@ sections:
         type: FeaturedItem
       - title: Gestion
         subtitle: Gestion de Capital
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Avec notre service de **gestion de capital**, nous prenons en charge
+          votre argent et vous le restituons avec un **taux d’intérêt attractif
+          (7%)**. Une solution sécurisée et performante pour faire fructifier
+          vos fonds sans effort.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
