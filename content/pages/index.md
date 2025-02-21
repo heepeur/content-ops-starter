@@ -114,7 +114,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Gestion
-        subtitle: Faster
+        subtitle: Gestion de Capital
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
