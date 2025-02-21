@@ -89,10 +89,11 @@ sections:
               borderRadius: x-large
       - title: Bourse
         subtitle: Plusieurs choix
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          nous vous accompagnons dans vos investissements boursiers pour
+          maximiser votre rendement en toute sécurité. Grâce à notre expertise
+          et notre analyse stratégique, nous vous aidons à prendre les
+          meilleures décisions et à optimiser votre portefeuille.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
